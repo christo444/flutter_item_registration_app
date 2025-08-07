@@ -1,3 +1,3 @@
 # item_registration
 
-A new Flutter project.
+An app to store items based on categories
